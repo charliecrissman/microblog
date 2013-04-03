@@ -1,5 +1,6 @@
  db_repository/*
  
+ app/*.pyc
  *.pyc
 
  # C extensions
